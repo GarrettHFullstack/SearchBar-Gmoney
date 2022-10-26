@@ -21,10 +21,10 @@ const objectForm1 = [
         email: "Person@email.com"
     },
     {
-        name: " claire",
+        name: " sdfsdf",
         age: " 21",
-        username: "  Garretts Ex",
-        email: " ClairW@email.com "
+        username: "  lolz",
+        email: " sdfsdf@email.com "
     },
     {
         name: " Garrett",
@@ -39,10 +39,10 @@ const objectForm1 = [
         email: "Person@email.com"
     },
     {
-        name: " claire",
+        name: " cheese",
         age: " 21",
-        username: "  Garretts Ex",
-        email: " ClairW@email.com "
+        username: "  motz",
+        email: " CheezeO@email.com "
     },
     {
         name: " Garrett",
@@ -69,10 +69,10 @@ const objectForm1 = [
         email: "Person@email.com"
     },
     {
-        name: " claire",
+        name: " degorno",
         age: " 21",
-        username: "  Garretts Ex",
-        email: " ClairW@email.com "
+        username: "  Garretts  Delivery",
+        email: " DeliveryNow@email.com "
     },
     {
         name: " Garrett",
@@ -87,10 +87,10 @@ const objectForm1 = [
         email: "Person@email.com"
     },
     {
-        name: " claire",
+        name: " Motza Ball",
         age: " 21",
-        username: "  Garretts Ex",
-        email: " ClairW@email.com "
+        username: "  Cowzer",
+        email: " Motza@email.com "
     },
     {
         name: " Garrett",
