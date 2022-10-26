@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+}
+.Navbar{
+    display: flex;
+    width: 100vw;
+    height: 10vh;
+    background-color: green;
+}
+.NavbarInner{
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    padding: 0 2vw;
+    display: flex;
+    color: white
+}
+.NavbarInnerInput{
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    padding: 0 2vw;
+    display: flex;
+    color: black
+}
+
+.NavbarInner::after{
+    color: white
+}
+.NavbarInner:hover{
+    background-color: orange;
+}
+.holder{
+    width: auto;
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+    overflow: scroll;
+}
+.contentContainer{
+    width: 100vw;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.infoContainers{
+    width: calc(100%-10px);
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-bottom: 1vh;
+}
+.inner{
+    width: 90vw;
+    margin: 0 10px;
+}
+.holder::-webkit-scrollbar{
+    display: none;
+    width: 0;
+}
